@@ -23,7 +23,7 @@ Um programa simples em **Python** que simula o caixa de um supermercado, calcula
 
 - Calcula automaticamente o valor final da compra.  
 - Mostra o valor de cada parcela quando a compra for parcelada.  
-- Interface simples e intuitiva para o usuário.
+- Interface via console.
   
 ---
 
