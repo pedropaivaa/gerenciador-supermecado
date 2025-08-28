@@ -27,11 +27,11 @@ Um programa simples em **Python** que simula o caixa de um supermercado, calcula
   
 ---
 
-## 🚀 Como usar
+<!--## 🚀 Como usar
 
   1. Clone este repositório:  
 ```bash
-git clone https://github.com/seu-usuario/supermercado-baratinho.git
+git clone https://github.com/pedropaivaa/supermercado-baratinho.git
 ```
   2️. Acessar o diretório do projeto:
 ```bash
@@ -40,4 +40,4 @@ cd supermercado-baratinho
   3. Execute o programa:
 ```bash
 python supermercado.py
-```
+```-->
